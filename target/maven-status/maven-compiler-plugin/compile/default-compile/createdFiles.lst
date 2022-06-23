@@ -1,0 +1,7 @@
+page\object\HomePage.class
+page\object\DesktopsPage.class
+page\object\ReviewCanon5DPage.class
+utilities\Util.class
+core\Base.class
+utilities\CucumberReportingConfig.class
+page\object\ProductsPage.class

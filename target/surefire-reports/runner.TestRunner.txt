@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 2.744 s <<< FAILURE! - in runner.TestRunner
+User verify all items are present in Desktops tab(Desktops)  Time elapsed: 0.097 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: 
+Could not create a cucumber expression for 'User select color from dropdown {color}'.
+It appears you did not register a parameter type.
+Caused by: io.cucumber.cucumberexpressions.UndefinedParameterTypeException: Undefined parameter type {color}. Please register a ParameterType for {color}.
+
+runner.TestRunner  Time elapsed: 2.211 s  <<< ERROR!
+org.junit.runner.notification.StoppedByUserException
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+

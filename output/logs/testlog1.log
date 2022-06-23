@@ -1,0 +1,132 @@
+2022-05-17 01:07:07,743 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-05-17 01:07:10,666 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:10,715 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Desktops tab
+2022-05-17 01:07:11,161 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops
+2022-05-17 01:07:11,205 [main] INFO .\src\test\resources\input\log4j.properties - "Apple Cinema 30"" is present in this page
+2022-05-17 01:07:11,227 [main] INFO .\src\test\resources\input\log4j.properties - "Canon EOS 5D Camera" is present in this page
+2022-05-17 01:07:11,245 [main] INFO .\src\test\resources\input\log4j.properties - "HP LP3065" is present in this page
+2022-05-17 01:07:11,264 [main] INFO .\src\test\resources\input\log4j.properties - "HTC Touch HD" is present in this page
+2022-05-17 01:07:11,283 [main] INFO .\src\test\resources\input\log4j.properties - "iPhone" is present in this page
+2022-05-17 01:07:11,300 [main] INFO .\src\test\resources\input\log4j.properties - "iPod Classic" is present in this page
+2022-05-17 01:07:11,319 [main] INFO .\src\test\resources\input\log4j.properties - "MacBook" is present in this page
+2022-05-17 01:07:11,337 [main] INFO .\src\test\resources\input\log4j.properties - "MacBook Air" is present in this page
+2022-05-17 01:07:11,354 [main] INFO .\src\test\resources\input\log4j.properties - "Palm Treo Pro" is present in this page
+2022-05-17 01:07:11,373 [main] INFO .\src\test\resources\input\log4j.properties - "Product 8" is present in this page
+2022-05-17 01:07:11,389 [main] INFO .\src\test\resources\input\log4j.properties - "Samsung SyncMaster 941BW" is present in this page
+2022-05-17 01:07:11,408 [main] INFO .\src\test\resources\input\log4j.properties - "Sony VAIO" is present in this page
+2022-05-17 01:07:11,408 [main] INFO .\src\test\resources\input\log4j.properties - All items are present in Desktop page
+2022-05-17 01:07:12,198 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab PASSED
+2022-05-17 01:07:12,226 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP3065 from Desktops tab to the cart started
+2022-05-17 01:07:14,499 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:14,544 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Desktops tab
+2022-05-17 01:07:14,983 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops
+2022-05-17 01:07:15,023 [main] INFO .\src\test\resources\input\log4j.properties - User clicked ADD TO CART option on HP LP3065 item
+2022-05-17 01:07:16,164 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-05-17 01:07:16,205 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to Cart button
+2022-05-17 01:07:16,385 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:07:21,070 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP3065 from Desktops tab to the cart PASSED
+2022-05-17 01:07:21,080 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-05-17 01:07:23,469 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:23,511 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Desktops tab
+2022-05-17 01:07:23,928 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops
+2022-05-17 01:07:23,967 [main] INFO .\src\test\resources\input\log4j.properties - User clicked ADD TO CART option on Canon EOS 5D item
+2022-05-17 01:07:25,008 [main] INFO .\src\test\resources\input\log4j.properties - User selected color from dropdown Red
+2022-05-17 01:07:25,086 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-05-17 01:07:25,151 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to Cart button
+2022-05-17 01:07:25,567 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:07:30,233 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-05-17 01:07:30,252 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-05-17 01:07:32,541 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:32,586 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Desktops tab
+2022-05-17 01:07:33,023 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktops
+2022-05-17 01:07:33,970 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Canon EOS 5D item
+2022-05-17 01:07:34,016 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on write a review link
+2022-05-17 01:07:34,298 [main] INFO .\src\test\resources\input\log4j.properties - user filled the review information with given information
+2022-05-17 01:07:34,339 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue Button
+2022-05-17 01:07:34,505 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:07:39,201 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-05-17 01:07:39,213 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-17 01:07:41,502 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:41,549 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Currency
+2022-05-17 01:07:41,862 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro from dropdown
+2022-05-17 01:07:41,884 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-17 01:07:42,674 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-17 01:07:42,688 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-05-17 01:07:45,052 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:45,095 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-05-17 01:07:45,117 [main] INFO .\src\test\resources\input\log4j.properties - "Your shopping cart is empty!" message is displayed
+2022-05-17 01:07:45,888 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays PASSED
+2022-05-17 01:07:45,905 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-05-17 01:07:48,199 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:48,240 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop & NoteBook tab
+2022-05-17 01:07:48,568 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop & NoteBook option
+2022-05-17 01:07:49,481 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on item
+2022-05-17 01:07:49,519 [main] INFO .\src\test\resources\input\log4j.properties - User clicked add to Cart button
+2022-05-17 01:07:49,738 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:07:50,219 [main] INFO .\src\test\resources\input\log4j.properties - User sees "1 item(s) - $602.00" showed to the cart
+2022-05-17 01:07:50,257 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-05-17 01:07:52,308 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on red X button to remove the item from cart
+2022-05-17 01:07:52,764 [main] INFO .\src\test\resources\input\log4j.properties - User sees "0 item(s) - $0.00" showed to the cart
+2022-05-17 01:07:56,925 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart PASSED
+2022-05-17 01:07:56,933 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-05-17 01:07:59,248 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:07:59,297 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop & NoteBook tab
+2022-05-17 01:07:59,621 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop & NoteBook option
+2022-05-17 01:07:59,710 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on product comparison icon on MacBook
+2022-05-17 01:07:59,768 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on product comparison icon on MacBook Air
+2022-05-17 01:07:59,867 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:08:02,721 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Product comparison link
+2022-05-17 01:08:02,763 [main] INFO .\src\test\resources\input\log4j.properties - User sees Product Comparison Chart
+2022-05-17 01:08:03,274 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison PASSED
+2022-05-17 01:08:03,285 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-05-17 01:08:06,275 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:08:06,320 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop & NoteBook tab
+2022-05-17 01:08:06,648 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop & NoteBook option
+2022-05-17 01:08:06,710 [main] INFO .\src\test\resources\input\log4j.properties - User click on heart icon to add "Sony VaIO" laptop to wish list
+2022-05-17 01:08:09,293 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:08:09,966 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list PASSED
+2022-05-17 01:08:09,973 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-05-17 01:08:12,451 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:08:12,493 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Laptop & NoteBook tab
+2022-05-17 01:08:12,808 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all Laptop & NoteBook option
+2022-05-17 01:08:13,765 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on item
+2022-05-17 01:08:13,806 [main] INFO .\src\test\resources\input\log4j.properties - User sees $2,000.00 price tag is present on UI.
+2022-05-17 01:08:18,503 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-05-17 01:08:18,512 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-05-17 01:08:20,786 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:08:20,831 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:21,044 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:21,232 [main] INFO .\src\test\resources\input\log4j.properties - User enter username "newNamenewLast5@gmail.com" and password "newNamenewLast"
+2022-05-17 01:08:21,540 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-05-17 01:08:21,585 [main] INFO .\src\test\resources\input\log4j.properties - User is logged in to MyAccount dashboard
+2022-05-17 01:08:21,791 [main] INFO .\src\test\resources\input\log4j.properties - ser clicked on "Register for an Affiliate Account" link
+2022-05-17 01:08:22,113 [main] INFO .\src\test\resources\input\log4j.properties - User filled affiliate form with given information
+2022-05-17 01:08:22,202 [main] INFO .\src\test\resources\input\log4j.properties - User checked on About us check box
+2022-05-17 01:08:22,612 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue button
+2022-05-17 01:08:22,650 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:08:23,173 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-05-17 01:08:23,182 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-05-17 01:08:25,605 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:08:25,650 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:25,867 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:26,056 [main] INFO .\src\test\resources\input\log4j.properties - User enter username "newNamenewLast5@gmail.com" and password "newNamenewLast"
+2022-05-17 01:08:26,352 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-05-17 01:08:26,397 [main] INFO .\src\test\resources\input\log4j.properties - User is logged in to MyAccount dashboard
+2022-05-17 01:08:26,607 [main] INFO .\src\test\resources\input\log4j.properties - ser clicked on "Edit your affiliate information" link
+2022-05-17 01:08:26,658 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Bank Transfer radio button
+2022-05-17 01:08:27,065 [main] INFO .\src\test\resources\input\log4j.properties - User filled Bank information with below information
+2022-05-17 01:08:27,370 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue button
+2022-05-17 01:08:27,409 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:08:27,910 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-05-17 01:08:27,920 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account Information started
+2022-05-17 01:08:30,198 [main] INFO .\src\test\resources\input\log4j.properties - User is on Retail website
+2022-05-17 01:08:30,242 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:30,450 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MyAccount
+2022-05-17 01:08:30,654 [main] INFO .\src\test\resources\input\log4j.properties - User enter username "newNamenewLast5@gmail.com" and password "newNamenewLast"
+2022-05-17 01:08:30,947 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-05-17 01:08:30,993 [main] INFO .\src\test\resources\input\log4j.properties - User is logged in to MyAccount dashboard
+2022-05-17 01:08:31,654 [main] INFO .\src\test\resources\input\log4j.properties - ser clicked on "Edit your account information" link
+2022-05-17 01:08:31,964 [main] INFO .\src\test\resources\input\log4j.properties - User modified personal info with below information
+2022-05-17 01:08:32,302 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue button
+2022-05-17 01:08:32,338 [main] INFO .\src\test\resources\input\log4j.properties - User can see the success message
+2022-05-17 01:08:32,857 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account Information PASSED
